@@ -59,7 +59,7 @@ I am using this repository to consistently practice what I learn, build projects
 
 ---
 
-## 📊 Projects
+##  Projects
 
 ### House Price Prediction
 
